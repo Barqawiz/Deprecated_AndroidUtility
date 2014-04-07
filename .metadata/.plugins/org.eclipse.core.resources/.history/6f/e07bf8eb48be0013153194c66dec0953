@@ -1,0 +1,29 @@
+package com.iaraby.utility;
+
+public class ActivityAnimation {
+	
+	public static void animateSlideRight() {
+		
+	}
+	
+	public static void animateSlideLeft() {
+		
+	}
+	
+	public static void animateUp() {
+		
+	}
+	
+	public static void animateHideDown() {
+		
+	}
+	
+	public static void animateZoom() {
+		
+	}
+	
+	public static void animateFade() {
+		
+	}
+	
+} //class: activity animation

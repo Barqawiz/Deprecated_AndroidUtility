@@ -1,0 +1,19 @@
+package com.iaraby.utility.sample;
+
+import com.iarbay.utility.sample.R;
+
+import android.app.Activity;
+import android.os.Bundle;
+import android.widget.ImageView;
+
+
+public class MainActivity extends Activity {
+
+	 protected void onCreate(Bundle pSavedInstanceState) {
+	        super.onCreate(pSavedInstanceState);
+	        setContentView(R.layout.activity_main);
+	        
+	        ImageView circle = (ImageView) findViewById(R.id.circle_image);
+	} //method: on create
+	 
+} //class: MainActivity

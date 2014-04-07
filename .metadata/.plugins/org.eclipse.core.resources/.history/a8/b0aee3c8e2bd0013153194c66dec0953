@@ -1,0 +1,9 @@
+package com.iaraby.utility;
+
+/**
+ * This helper to initial DB  
+ *
+ */
+public class DBHelper {
+
+}

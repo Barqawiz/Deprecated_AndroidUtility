@@ -1,0 +1,12 @@
+package com.iaraby.utility;
+
+/**
+ * (This helper to initial the DB in your assets folder)
+ * DBHelper will handle to move your DB from assets folder to android device so you can
+ * make add, remove and edit data. 
+ * You should build DBLayer above the helper as following:
+ * 
+ */
+public class DBHelper {
+
+}
