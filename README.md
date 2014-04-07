@@ -25,9 +25,11 @@ Example
 -----
 - Image Utility 
 ``` Bitmap cutome = ImageUtility.getCircleBitmap(bitmap); ```
+
 ![alt tag](https://raw.github.com/Barqawiz/AndroidUtility/master/example/circle_image.png)
 
 ``` Bitmap cutome = ImageUtility.rotateBitmap(bitmap, 30); ```
+
 ![alt tag](https://raw.github.com/Barqawiz/AndroidUtility/master/example/rotate_image.png)
 
 
