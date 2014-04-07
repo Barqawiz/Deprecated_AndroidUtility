@@ -23,24 +23,24 @@ OR add the “utility.jar” in lib folder in your project
 
 Example (HowTo ?)
 -----
-- Image Utility <br/>
-``` Bitmap cutome = ImageUtility.getCircleBitmap(bitmap); ``` <br/>
-![alt tag](https://raw.github.com/Barqawiz/AndroidUtility/master/example/circle_image.png)
+* Image Utility <br/>
+    * ``` Bitmap cutome = ImageUtility.getCircleBitmap(bitmap); ``` <br/>
+    ![alt tag](https://raw.github.com/Barqawiz/AndroidUtility/master/example/circle_image.png)
 
-``` Bitmap cutome = ImageUtility.rotateBitmap(bitmap, 30); ``` <br/>
-![alt tag](https://raw.github.com/Barqawiz/AndroidUtility/master/example/rotate_image.png)
+   * ``` Bitmap cutome = ImageUtility.rotateBitmap(bitmap, 30); ``` <br/>
+    ![alt tag](https://raw.github.com/Barqawiz/AndroidUtility/master/example/rotate_image.png)
 
 
-- Utility <br/>
-``` ProgressDialog loading = Utility.createLoadingDialog(this); ``` <br/>
-![alt tag](https://raw.github.com/Barqawiz/AndroidUtility/master/example/loading_view.png) 
+*  Utility <br/>
+    * ``` ProgressDialog loading = Utility.createLoadingDialog(this); ``` <br/>
+      ![alt tag](https://raw.github.com/Barqawiz/AndroidUtility/master/example/loading_view.png) 
 
-``` Utility.isNetworkAvailable(context); ``` <br/>
-check network status: return true if wifi or mobile data is available otherwise false
+    * ``` Utility.isNetworkAvailable(context); ``` <br/>
+      check network status: return true if wifi or mobile data is available otherwise false
 
-- ActivityAnimation  <br/>
-``` ActivityAnimation.animateZoom(this); ```
-Call the method directly after ``` startActivity(intent); ```
+* ActivityAnimation  <br/>
+    * ``` ActivityAnimation.animateZoom(this); ```
+       Call the method directly after ``` startActivity(intent); ```
 
 Developed By
 ------------
