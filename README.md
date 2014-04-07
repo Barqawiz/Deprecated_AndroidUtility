@@ -24,15 +24,15 @@ OR add the “utility.jar” in lib folder in your project
 Example
 -----
 - Image Utility 
-``` Bitmap cutome = ImageUtility.getCircleBitmap(bitmap); ```
+``` Bitmap cutome = ImageUtility.getCircleBitmap(bitmap); ``` <br/>
 ![alt tag](https://raw.github.com/Barqawiz/AndroidUtility/master/example/circle_image.png)
 
-``` Bitmap cutome = ImageUtility.rotateBitmap(bitmap, 30); ```
+``` Bitmap cutome = ImageUtility.rotateBitmap(bitmap, 30); ``` <br/>
 ![alt tag](https://raw.github.com/Barqawiz/AndroidUtility/master/example/rotate_image.png)
 
 
 - Utility
-``` ProgressDialog loading = Utility.createLoadingDialog(this); ```
+``` ProgressDialog loading = Utility.createLoadingDialog(this); ``` <br/>
 ![alt tag](https://raw.github.com/Barqawiz/AndroidUtility/master/example/loading_view.png)
 
 
