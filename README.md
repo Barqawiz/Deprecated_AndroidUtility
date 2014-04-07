@@ -44,7 +44,7 @@ Example (HowTo ?)
 Developed By
 ------------
 
-Ahmad Barqaiw
+Ahmad Barqawi
 @Barqawi88
 
 
