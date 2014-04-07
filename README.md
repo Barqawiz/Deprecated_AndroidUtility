@@ -17,8 +17,7 @@ The project contain five basic classes:
 
 Setup
 -----
-Import the project “Android Utilities” and add it in build path after import it (in Eclipse: right click on your project > Properties > Android > Add..)
-
+Import the project “Android Utilities” and add it in your project build path as library (in Eclipse: right click on your project > Properties > Android > Add..) <br/>
 OR add the “utility.jar” in lib folder in your project
 
 Example (HowTo ?)
