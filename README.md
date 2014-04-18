@@ -44,10 +44,10 @@ Example (HowTo ?)
 Developed By
 ------------
 
-Ahmad Barqaiw @Barqawi88
+Ahmad Barqawi @Barqawi88
 
 
 License
 -------
-  GNU GENERAL PUBLIC LICENSE
+    GNU GENERAL PUBLIC LICENSE
 
