@@ -22,7 +22,6 @@
 <fullyQualifiedTypeName name="android.net.NetworkInfo"/>
 <fullyQualifiedTypeName name="android.content.pm.ActivityInfo"/>
 <fullyQualifiedTypeName name="android.widget.Toast"/>
-<fullyQualifiedTypeName name="android.app.Activity"/>
 <fullyQualifiedTypeName name="android.content.Intent"/>
 <fullyQualifiedTypeName name="android.app.ActivityManager"/>
 <fullyQualifiedTypeName name="java.util.List"/>
@@ -32,4 +31,7 @@
 <fullyQualifiedTypeName name="com.iarbay.utility.R"/>
 <fullyQualifiedTypeName name="android.view.WindowManager.BadTokenException"/>
 <fullyQualifiedTypeName name="android.content.DialogInterface.OnCancelListener"/>
+<fullyQualifiedTypeName name="com.iaraby.utility.Utility"/>
+<fullyQualifiedTypeName name="android.app.Activity"/>
+<fullyQualifiedTypeName name="com.iaraby.utility.ActivityAnimation"/>
 </qualifiedTypeNameHistroy>

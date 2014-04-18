@@ -1,6 +1,0 @@
-package com.iaraby.utility;
-
-/**Log manager aim to control */
-public class LogManager {
-
-}
