@@ -44,12 +44,7 @@ Example (HowTo ?)
 Developed By
 ------------
 
-<<<<<<< HEAD
-Ahmad Barqaiw
-=======
-Ahmad Barqawi
->>>>>>> FETCH_HEAD
-@Barqawi88
+Ahmad Barqaiw @Barqawi88
 
 
 License
