@@ -1,9 +1,0 @@
-package com.iaraby.utility;
-
-public class ActivityAnimation {
-	
-	public static void animateSlideRight() {
-		
-	}
-	
-}

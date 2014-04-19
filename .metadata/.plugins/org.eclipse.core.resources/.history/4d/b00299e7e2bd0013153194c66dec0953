@@ -1,9 +1,0 @@
-package com.iaraby.utility;
-
-/**
- * This helper to initial the DB in your assets folder
- *
- */
-public class DBHelper {
-
-}
