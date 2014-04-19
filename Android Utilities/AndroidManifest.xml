@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.iarbay.utility"
-    android:versionCode="1"
-    android:versionName="Basic" >
+    android:versionCode="3"
+    android:versionName="Utility Basic" >
 
     <uses-sdk
         android:minSdkVersion="8"
