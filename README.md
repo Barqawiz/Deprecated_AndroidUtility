@@ -30,14 +30,14 @@ Example (HowTo ?)
     ![alt tag](https://raw.github.com/Barqawiz/AndroidUtility/master/example/rotate_image.png)
 
 
-*  Utility <br/>
-    * ``` ProgressDialog loading = Utility.createLoadingDialog(this); ``` <br/>
+*  Utility (General Utilities)<br/>
+    * Loading dialog in center ``` ProgressDialog loading = Utility.createLoadingDialog(this); ``` <br/>
       ![alt tag](https://raw.github.com/Barqawiz/AndroidUtility/master/example/loading_view.png) 
 
-    * ``` Utility.isNetworkAvailable(context); ``` <br/>
+    * Check Internet connection: ``` Utility.isNetworkAvailable(context); ``` <br/>
       check network status: return true if wifi or mobile data is available otherwise false
 
-* ActivityAnimation  <br/>
+* ActivityAnimation: Animation between activities <br/>
     * ``` ActivityAnimation.animateZoom(this); ```
        Call the method directly after ``` startActivity(intent); ```
 
